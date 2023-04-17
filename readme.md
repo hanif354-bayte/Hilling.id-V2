@@ -13,12 +13,12 @@ Apk Preview
 ---
 ## Landing Page 
 <p align="center">
-    <img width="250px" src="./src/assets/Tampilan Home Apk.jpg">
+    <img width="250px" src="./src/assets/Tampilan Home Apk.jpeg">
 </p>
 
 ## Testing Unit
 <p align="center">
-    <img width="500px" src="./src/assets/Testing Unit.jpeg">
+    <img width="500px" src="./src/assets/Testing Unit.png">
 </p>
 
 ## Library
