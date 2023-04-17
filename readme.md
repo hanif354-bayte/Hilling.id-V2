@@ -1,7 +1,7 @@
 Hiling.id V2 (Redux Thunk & Redux Saga)
 ===
 ```
-Muhammad Hadi Arsa (120140150)
+Hanif Putra Agusta (120140120)
 
 Aplikasi Hiling.id Version 2 ini menerapkan konsep redux thunk, redux saga, dan menggunakan API IP
 ```
