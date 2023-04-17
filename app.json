@@ -25,14 +25,14 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "com.mhhadiiar.hilingid"
+      "package": "com.hanif.hilingid"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "aab76e4c-3cd9-48dd-812c-16bc878c9eaf"
+        "projectId": "96a89d26-f72f-43b9-ad9e-0c478b8c1b51"
       }
     }
   }
