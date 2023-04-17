@@ -7,7 +7,7 @@ Aplikasi Hiling.id Version 2 ini menerapkan konsep redux thunk, redux saga, dan 
 ```
 
 ## App Link
-Link App Download => [Hiling.id-V2](https://expo.dev/artifacts/eas/ud32M3pB9FPQJ726vth1Dy.apk)
+Link App Download => [https://expo.dev/artifacts/eas/fDdjp3WopWePtY9pSRGJqa.apk)
 
 Apk Preview 
 ---
