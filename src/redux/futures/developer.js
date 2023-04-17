@@ -1,8 +1,8 @@
 import { createSlice } from '@reduxjs/toolkit'
 
 const developerInit = {
-    name: "Hadi AR",
-    nim: 120140150,
+    name: "Hanif",
+    nim: 120140120,
 }
 
 export const developer = createSlice({
